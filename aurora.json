@@ -14,5 +14,6 @@
   "com.google.android.dialer Google",
   "com.google.android.apps.nbu.files Google",
   "com.google.android.contacts Google",
-  "com.google.android.calendar Google"
+  "com.google.android.calendar Google",
+  "com.google.android.calculator Google",
 ]
